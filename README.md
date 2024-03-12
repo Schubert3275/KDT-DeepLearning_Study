@@ -50,7 +50,24 @@
 | `DAY_02\ex_tensor_04.ipynb` | 텐서 shape 변경     |
 | `DAY_02\ex_tensor_05.ipynb` | 텐서 연결 & 결합    |
 
-#### DAY02 실습과제
+### DAY03
+
+---
+
+<details>
+<summary>  </summary>
+
+>
+
+</details>
+
+---
+
+| 파일명 | 내용 |
+| ------ | ---- |
+| ``     |      |
+
+#### DAY03 실습과제
 
 ---
 
