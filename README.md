@@ -34,6 +34,9 @@
 
 > 텐서 타입
 > 텐서 속성
+> 텐서 연산
+> 텐서 변환
+> 텐서 결합
 
 </details>
 
@@ -45,6 +48,7 @@
 | `DAY_02\ex_tensor_02.ipynb` | 텐서 원소/요소 접근 |
 | `DAY_02\ex_tensor_03.ipynb` | 행렬 곱셈           |
 | `DAY_02\ex_tensor_04.ipynb` | 텐서 shape 변경     |
+| `DAY_02\ex_tensor_05.ipynb` | 텐서 연결 & 결합    |
 
 #### DAY02 실습과제
 
