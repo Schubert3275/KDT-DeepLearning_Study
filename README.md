@@ -55,9 +55,18 @@
 ---
 
 <details>
-<summary>  </summary>
+<summary> 인공신경망 </summary>
 
-> -
+> -   퍼셉트론 원리
+> -   퍼셉트론 증명
+
+</details>
+<details>
+<summary> 다층 퍼셉트론 </summary>
+
+> -   다층 퍼셉트론 소개
+> -   다층 퍼셉트론 동작원리
+> -   기울기 소실/폭주
 
 </details>
 
