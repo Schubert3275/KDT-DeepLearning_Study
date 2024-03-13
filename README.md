@@ -72,9 +72,15 @@
 
 ---
 
-| 파일명 | 내용 |
-| ------ | ---- |
-| ``     |      |
+| 파일명                                    | 내용                    |
+| ----------------------------------------- | ----------------------- |
+| `DAY_03\ex_or_perceptron.ipynb`           | AND, OR, NAND, XOR 연산 |
+| `DAY_03\ex_linearRegression.ipynb`        | 선형회귀 학습 예시      |
+| `DAY_03\ex_load_data.ipynb`               | 이미지 처리             |
+| `DAY_03\ex_wine.ipynb`                    | 와인 데이터 처리        |
+| `DAY_03\ex_multi_linear_regression.ipynb` | 다중선형회귀 학습 예시  |
+| `DAY_03\ex_logistic_reg.ipynb`            | 로지스틱회귀 학습 예시  |
+| `DAY_03\ex_softmax_reg.ipynb`             | 다중분류 학습 예시      |
 
 #### DAY03 실습과제
 
