@@ -69,6 +69,15 @@
 > -   기울기 소실/폭주
 
 </details>
+<details>
+<summary> 딥러닝 기초 </summary>
+
+> -   선형회귀
+> -   다중선형회귀
+> -   로지스틱회귀
+> -   다중분류
+
+</details>
 
 ---
 
@@ -86,4 +95,49 @@
 
 ---
 
-    1.
+    1. wine 이진분류
+    2. wine 회귀분석
+    3. MNIST-Fashion 다중분류
+
+### DAY04
+
+---
+
+<details>
+<summary> 출력함수 </summary>
+
+> -   sigmoid
+> -   softmax
+
+</details>
+<summary> 이진분류 </summary>
+
+> -   binary_cross_entropy
+> -   OneHotEncoder
+
+</details>
+<summary> 다중분류 </summary>
+
+> -   cross_entropy
+
+</details>
+<summary> 인공신경망 클래스 </summary>
+
+> -   로지스틱회귀 모델 클래스
+
+</details>
+
+---
+
+| 파일명                         | 내용                          |
+| ------------------------------ | ----------------------------- |
+| `DAY_04\ex_ac_function.ipynb`  | softmax(), sigmoid() 함수     |
+| `DAY_04\ex_mini_test_01.ipynb` | 이미지 이진분류               |
+| `DAY_04\ex_mini_test_02.ipynb` | 이미지 이진분류-OneHot        |
+| `DAY_04\ex_nn.ipynb`           | 인공신경망 모델 클래스 만들기 |
+
+#### DAY04 실습과제
+
+---
+
+    1. MNIST-Fashion 클래스 활용 다중분류
