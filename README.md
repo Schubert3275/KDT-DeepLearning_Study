@@ -166,12 +166,13 @@
 
 ---
 
-| 파일명                           | 내용                 |
-| -------------------------------- | -------------------- |
-| `DAY_05\ex_custom_dataset.ipynb` | Dataset & DataLoader |
+| 파일명                               | 내용                 |
+| ------------------------------------ | -------------------- |
+| `DAY_05\ex_custom_dataset.ipynb`     | Dataset & DataLoader |
+| `DAY_05\ex_iris_dataset_model.ipynb` | Dataset & DataLoader |
 
 #### DAY05 실습과제
 
 ---
 
-    1.
+    1. MNIST-Fashion 클래스 활용 다중분류
