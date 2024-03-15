@@ -141,3 +141,35 @@
 ---
 
     1. MNIST-Fashion 클래스 활용 다중분류
+
+### DAY05
+
+---
+
+<details>
+<summary> DATASET & LOADER </summary>
+
+> -   Dataset
+> -   피쳐와 타겟(지도학습)의 묶음
+> -   피쳐(비지도학습)의 묶음
+> -   DataLodaer
+
+</details>
+<details>
+<summary> DATASET & LOADER </summary>
+
+> -   DataLoader
+
+</details>
+
+---
+
+| 파일명                           | 내용                 |
+| -------------------------------- | -------------------- |
+| `DAY_05\ex_custom_dataset.ipynb` | Dataset & DataLoader |
+
+#### DAY05 실습과제
+
+---
+
+    1.
