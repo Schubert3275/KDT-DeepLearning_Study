@@ -147,18 +147,20 @@
 ---
 
 <details>
-<summary> DATASET & LOADER </summary>
+<summary> DATASET </summary>
 
 > -   Dataset
 > -   피쳐와 타겟(지도학습)의 묶음
 > -   피쳐(비지도학습)의 묶음
-> -   DataLodaer
 
 </details>
 <details>
-<summary> DATASET & LOADER </summary>
+<summary> LOADER </summary>
 
 > -   DataLoader
+> -   학습용
+> -   검증용
+> -   테스트용
 
 </details>
 
