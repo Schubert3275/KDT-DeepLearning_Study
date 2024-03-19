@@ -201,14 +201,26 @@
 ---
 
 <details>
-<summary>  </summary>
+<summary> 과적합 해결 </summary>
 
-> -
+> -   Train Data 증가 -> 시간/비용 크게 증가
+> -   Feature 개수 감소 -> 저차원
+> -   Regularization(규제) 추가
+> -   Dropout Layer 추가
+
+</details>
+<details>
+<summary> 기울기 소실/폭주 해결 </summary>
+
+> -   활성화 함수 -> 입력층/은닉층 ReLu, 출력층 Sigmoid/Softmax
+> -   Normalization -> 배치 정규화(Batch Normalization)
+> -   Weight initialization -> 세이비어(Xavie)/글로럿(Glorot), 헤(He)
+> -   Gradient Clipping -> 기울기 폭주 막기 위해 임계값 넘지 않도록 값 자르기
 
 </details>
 
 ---
 
-| 파일명 | 내용 |
-| ------ | ---- |
-| ``     |      |
+| 파일명                        | 내용          |
+| ----------------------------- | ------------- |
+| `DAY_07\ex_weight_init.ipynb` | 가중치 초기화 |

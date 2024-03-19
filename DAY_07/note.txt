@@ -1,0 +1,37 @@
+심층 뉴럴 네트워크
+
+DNN MODEL => Layer + AF
+
+layer  ---  입력층 Full Connected Layer 즉, Linear
+layer  ---  은닉층 Full Connected Layer 즉, Linear ┐
+layer  ---  은닉층 Full Connected Layer 즉, Linear ├ 2개 이상
+layer  ---  은닉층 Full Connected Layer 즉, Linear ┘
+layer  ---  출력층 Full Connected Layer 즉, Linear
+
+* 입력을 1차원으로 받으므로 이미지 처리 성능 저하
+
+===============================================================================
+
+이미지 처리 모델
+
+CNN MODEL => Layer + AF
+
+layer  ---  입력층 Convolution Layer + Pooling Layer ┐
+layer  ---  은닉층 Convolution Layer + Pooling Layer ├ 이미지 형태 그대로 사용
+layer  ---  은닉층 Convolution Layer + Pooling Layer ┘
+layer  ---  은닉층 Full Connected Layer 즉, Linear   ┐
+layer  ---  출력층 Full Connected Layer 즉, Linear   ┴ 이미지 1D
+
+===============================================================================
+
+음성/텍스트 데이터 처리 모델
+
+RNN MODEL => Layer + AF
+
+layer  ---  입력층 Embedding Layer      ┐
+layer  ---  입력층 Convolution 1D Layer ├ 텍스트/음성
+layer  ---  은닉층 RNN/LSTM Layer       ┘
+layer  ---  은닉층 Full Connected Layer ┐
+layer  ---  출력층 Full Connected Layer ┴ 이미지 1D
+
+===============================================================================
